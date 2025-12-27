@@ -41,6 +41,10 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 ![direct1](https://github.com/user-attachments/assets/c6c3975f-613b-45ed-81de-03a87a6eb6a8)
+<img width="881" height="567" alt="image" src="https://github.com/user-attachments/assets/653d5c70-d503-4dff-8713-cc7f584b4418" />
+<img width="820" height="504" alt="image" src="https://github.com/user-attachments/assets/f2af4f81-d3fc-4d4d-9298-6618a48b3f50" />
+<img width="890" height="521" alt="image" src="https://github.com/user-attachments/assets/4d0ab6d9-f2e8-46fc-95e1-e38314e9fd85" />
+<img width="879" height="507" alt="image" src="https://github.com/user-attachments/assets/6c0bc00d-4049-4fd4-9e6b-02bb8608f32f" />
 
 Tabulation:1
 ![direct](https://github.com/user-attachments/assets/7ebac23e-0961-4072-b26b-ce47965e3fb5)
@@ -48,6 +52,10 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-27 at 14 30 49](https://github.com/user-attachments/assets/ae673175-2791-4e87-a0f0-9b925cca9b8c)
+<img width="857" height="528" alt="image" src="https://github.com/user-attachments/assets/adc219eb-da41-44e1-a4e6-2e7e3f171630" />
+<img width="859" height="552" alt="image" src="https://github.com/user-attachments/assets/1bebd171-ccec-4537-95b4-91ee5918813a" />
+<img width="837" height="587" alt="image" src="https://github.com/user-attachments/assets/a52e049a-d0ae-4601-8ba4-e09f9c921399" />
+<img width="950" height="561" alt="image" src="https://github.com/user-attachments/assets/42d70bb8-95bd-477b-8db5-6c9ccc2c74e4" />
 
 Tabulation:2
 ![cross](https://github.com/user-attachments/assets/8fbe8d90-5915-472a-b27b-95a36a0be61a)
